@@ -226,7 +226,7 @@
 
             <div id="hotReplies" class="replies">
                 <div class="titleBar  titleBar-blue">
-                                        <div class="text"><strong>热门跟贴</strong> (跟贴<span class="displayCount"><em>-</em>条</span><span class="joinCount"> 有<em>9034</em>人参与</span>)</div>
+                                        <div class="text"><strong>热门跟贴</strong> (跟贴<span class="displayCount"><em>-</em>条</span><span class="joinCount"> 有<em>9115</em>人参与</span>)</div>
                                         <div class="titleBar_exp"><a href="http://tie.163.com/gt/special/zlgytest/" target="_blank" title="跟贴用户自律公约">跟贴用户自律公约</a> | <a href="http://m.163.com/newsapp/" target="_blank" title="手机也能看跟贴">手机也能看跟贴&gt;&gt;</a></div>
                 </div>
                 <div class="list">
@@ -248,7 +248,7 @@
 
             <div id="mainReplies" class="replies">
                 <div class="titleBar titleBar-blue">
-                                        <div class="text"><strong>最新跟贴</strong> (跟贴<span class="displayCount"><em>-</em>条</span><span class="joinCount"> 有<em>9034</em>人参与</span>)</div>
+                                        <div class="text"><strong>最新跟贴</strong> (跟贴<span class="displayCount"><em>-</em>条</span><span class="joinCount"> 有<em>9115</em>人参与</span>)</div>
                                         <ul class="pages">
     <li><span class="beginEnd">上一页</span></li>
     <li><span class="current">1</span></li>
@@ -418,7 +418,7 @@
 </script>
 <![endif]-->
     <!--kaola-->
-<div style="margin-top:8px;margin-bottom:8px;"><a target="_blank" href="http://rd.da.netease.com/redirect?t=x4iFuR&p=dCyJ5q&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F3023.html"><img src="http://img4.cache.netease.com/cnews/2015/4/2/201504021647206f844.gif" width="100%" height="90" alt="������Ʒ������վ"></a></div>
+<div style="margin-top:8px;margin-bottom:8px;"><a target="_blank" href="http://rd.da.netease.com/redirect?t=x4iFuR&p=dCyJ5q&target=http%3A%2F%2Fwww.kaola.com%2Factivity%2Fdetail%2F3023.html"><img src="http://img4.cache.netease.com/cnews/2015/4/2/201504021647206f844.gif" width="100%" height="90" alt="Ʒվ"></a></div>
 
 	<div id="tieRank" class="tieRank">
 		<div class="titleTabBar">
@@ -494,61 +494,61 @@
 		<div class="tieRank-list">
 			<ul class="tieRank-ul">
     <li class="first">
-       <a href="http://comment.news.163.com/news3_bbs/AMH381IT00014JB6.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">151038</a>
+       <a href="http://comment.news.163.com/news3_bbs/AMH381IT00014JB6.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">152521</a>
      <div class="rank-title"><div>
         <a href="http://news.163.com/15/0406/12/AMH381IT00014JB6.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">“反水客”行动致内地旅客骤减 香港零售业受难</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/news3_bbs/AMGTPR2100014Q4P.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">135110</a>
+      <a href="http://comment.news.163.com/news3_bbs/AMGTPR2100014Q4P.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">136107</a>
      <div class="rank-title"><div>
         <a href="http://news.163.com/15/0406/10/AMGTPR2100014Q4P.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">浙江2位环卫工被曝因拒拆迁被烧死 警方调查(图)</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/3g_bbs/AMGP7LCS00963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">76161</a>
+      <a href="http://comment.news.163.com/3g_bbs/AMGP7LCS00963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">76539</a>
      <div class="rank-title"><div>
         <a href="http://help.3g.163.com/15/0406/09/AMGP7LCS00963VRO.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">宜家禁止顾客样品家具上蹭睡</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/photoview_bbs/PHOT1SFE009654GI.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">72879</a>
-     <div class="rank-title"><div>
-        <a href="http://help.3g.163.com/photoview/54GI0096/61934.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">广东小孩落水家人施救7人溺亡</a>
-     </div></div>
-  </li>
-     <li>
-      <a href="http://comment.news.163.com/news_guoji2_bbs/AMHB1DS70001121M.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">71534</a>
+      <a href="http://comment.news.163.com/news_guoji2_bbs/AMHB1DS70001121M.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">73526</a>
      <div class="rank-title"><div>
         <a href="http://news.163.com/15/0406/14/AMHB1DS70001121M.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">中国游客清明期间挤爆日本京都清水寺(图)</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/3g_bbs/AMHGAVV400963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">60153</a>
+      <a href="http://comment.news.163.com/photoview_bbs/PHOT1SFE009654GI.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">72952</a>
+     <div class="rank-title"><div>
+        <a href="http://help.3g.163.com/photoview/54GI0096/61934.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">广东小孩落水家人施救7人溺亡</a>
+     </div></div>
+  </li>
+     <li>
+      <a href="http://comment.news.163.com/3g_bbs/AMHGAVV400963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">61957</a>
      <div class="rank-title"><div>
         <a href="http://help.3g.163.com/15/0406/16/AMHGAVV400963VRO.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">学生为老师养老继承48万遗产</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/3g_bbs/AMGNUJR400963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">55329</a>
+      <a href="http://comment.news.163.com/3g_bbs/AMGNUJR400963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">55481</a>
      <div class="rank-title"><div>
         <a href="http://help.3g.163.com/15/0406/08/AMGNUJR400963VRO.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">黄冈中学已15年未出过省状元</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/sports_zh_bbs/PHOT3SR3000528F9.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">50189</a>
+      <a href="http://comment.news.163.com/sports_zh_bbs/PHOT3SR3000528F9.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">50463</a>
      <div class="rank-title"><div>
         <a href="http://sports.163.com/photoview/28F90005/127843.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">日本拳手23秒遭中国猛将KO 口吐鲜血陷昏迷</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/3g_bbs/AMFSVUER00963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">46331</a>
+      <a href="http://comment.news.163.com/3g_bbs/AMFSVUER00963VRO.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">46407</a>
      <div class="rank-title"><div>
         <a href="http://help.3g.163.com/15/0406/01/AMFSVUER00963VRO.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">男子交17女友续:有女友存幻想</a>
      </div></div>
   </li>
      <li>
-      <a href="http://comment.news.163.com/news_shehui7_bbs/AMHLTTHK00011229.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">35411</a>
+      <a href="http://comment.news.163.com/news_shehui7_bbs/AMHLTTHK00011229.html" target="_blank" class="rank-num cDRed js-statistics"  statistics="action=click;value=GTtie_rank2tie_click;">37377</a>
      <div class="rank-title"><div>
         <a href="http://news.163.com/15/0406/17/AMHLTTHK00011229.html" target="_blank" class="js-statistics" statistics="action=click;value=GTtie_rank2news_click;">3名中国"痴汉"在日本性骚扰女性被当场逮捕</a>
      </div></div>
@@ -562,69 +562,117 @@
 				<ul class="tieAuthRank-ul on tieAuthRank-1">
 								<li class="first">
 							<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=emhiaW43NzlAMTYzLmNvbQ==&f=gentierankavatar" target="_blank" title="塞外天人">
-				<img src="http://oimagea7.ydstatic.com/image?w=50&h=50&url=http://126.fm/30SrqO" width="50" height="50" alt="塞外天人" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ODc0MTFzZDAxQDE2My5jb20=&f=gentierankavatar" target="_blank" title="无花A">
+				<img src="http://oimagea5.ydstatic.com/image?w=50&h=50&url=http://126.fm/4Gd6zs" width="50" height="50" alt="无花A" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=emhiaW43NzlAMTYzLmNvbQ==&f=gentierankname" target="_blank" title="塞外天人">塞外天人</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ODc0MTFzZDAxQDE2My5jb20=&f=gentierankname" target="_blank" title="无花A">无花A</a>
                	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ZHVsYW5nMTk3MUAxNjMuY29t&f=gentierankavatar" target="_blank" title="城市布足">
-				<img src="http://oimagea7.ydstatic.com/image?w=50&h=50&url=http://126.fm/xC9iQ" width="50" height="50" alt="城市布足" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=enlsem5qQDE2My5jb20=&f=gentierankavatar" target="_blank" title="东风落云I">
+				<img src="http://oimagea1.ydstatic.com/image?w=50&h=50&url=http://126.fm/2XGT1z" width="50" height="50" alt="东风落云I" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ZHVsYW5nMTk3MUAxNjMuY29t&f=gentierankname" target="_blank" title="城市布足">城市布足</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=enlsem5qQDE2My5jb20=&f=gentierankname" target="_blank" title="东风落云I">东风落云I</a>
                	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGlzaHVubGlhbmdAMTYzLmNvbQ==&f=gentierankavatar" target="_blank" title="长沙长枪">
-				<img src="http://oimagea5.ydstatic.com/image?w=50&h=50&url=http://126.fm/2bMJIZ" width="50" height="50" alt="长沙长枪" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=NTY1MzY2MUAxNjMuY29t&f=gentierankavatar" target="_blank" title="我是银桥">
+				<img src="http://oimagea1.ydstatic.com/image?w=50&h=50&url=http://126.fm/35oDGq" width="50" height="50" alt="我是银桥" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGlzaHVubGlhbmdAMTYzLmNvbQ==&f=gentierankname" target="_blank" title="长沙长枪">长沙长枪</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=NTY1MzY2MUAxNjMuY29t&f=gentierankname" target="_blank" title="我是银桥">我是银桥</a>
+               	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGlhbnhpYW9zb25nQDE2My5jb20=&f=gentierankavatar" target="_blank" title="大侠霍元乙">
-				<img src="http://oimagea7.ydstatic.com/image?w=50&h=50&url=http://126.fm/67FiY" width="50" height="50" alt="大侠霍元乙" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=dG9tbHN5LTY4NzhAMTYzLmNvbQ==&f=gentierankavatar" target="_blank" title="钱塘嘲">
+				<img src="http://oimagea5.ydstatic.com/image?w=50&h=50&url=http://126.fm/3wMB9K" width="50" height="50" alt="钱塘嘲" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGlhbnhpYW9zb25nQDE2My5jb20=&f=gentierankname" target="_blank" title="大侠霍元乙">大侠霍元乙</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=dG9tbHN5LTY4NzhAMTYzLmNvbQ==&f=gentierankname" target="_blank" title="钱塘嘲">钱塘嘲</a>
+               	            </span>
+		</li>
+										<li>
+					<span class="tieAuthRank-face">
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=YXNpX2xpbmtlckAxNjMuY29t&f=gentierankavatar" target="_blank" title="吸烟的困惑">
+				<img src="http://oimagea6.ydstatic.com/image?w=50&h=50&url=http://126.fm/2Gzfd3" width="50" height="50" alt="吸烟的困惑" /></a>
+			</span>
+            <span class="tieAuthRank-name">
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=YXNpX2xpbmtlckAxNjMuY29t&f=gentierankname" target="_blank" title="吸烟的困惑">吸烟的困惑</a>
+               	            </span>
+		</li>
+						</ul><ul class="tieAuthRank-ul tieAuthRank-2">
+							<li class="first">
+							<span class="tieAuthRank-face">
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=MTI1MTIyMzY0QHFxLmNvbQ==&f=gentierankavatar" target="_blank" title="小雨忧忧S">
+				<img src="http://oimagea4.ydstatic.com/image?w=50&h=50&url=http://126.fm/CpicA" width="50" height="50" alt="小雨忧忧S" /></a>
+			</span>
+            <span class="tieAuthRank-name">
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=MTI1MTIyMzY0QHFxLmNvbQ==&f=gentierankname" target="_blank" title="小雨忧忧S">小雨忧忧S</a>
+               	            </span>
+		</li>
+										<li>
+					<span class="tieAuthRank-face">
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=d3lndHp5QDE2My5jb20=&f=gentierankavatar" target="_blank" title="别说我是新人">
+				<img src="http://oimagea7.ydstatic.com/image?w=50&h=50&url=http://126.fm/2lAbV4" width="50" height="50" alt="别说我是新人" /></a>
+			</span>
+            <span class="tieAuthRank-name">
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=d3lndHp5QDE2My5jb20=&f=gentierankname" target="_blank" title="别说我是新人">别说我是新人</a>
+               	            </span>
+		</li>
+										<li>
+					<span class="tieAuthRank-face">
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bHVrZS01MTJAMTYzLmNvbQ==&f=gentierankavatar" target="_blank" title="浦东湿人">
+				<img src="http://oimagea5.ydstatic.com/image?w=50&h=50&url=http://126.fm/2mxosV" width="50" height="50" alt="浦东湿人" /></a>
+			</span>
+            <span class="tieAuthRank-name">
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bHVrZS01MTJAMTYzLmNvbQ==&f=gentierankname" target="_blank" title="浦东湿人">浦东湿人</a>
+               	            </span>
+		</li>
+										<li>
+					<span class="tieAuthRank-face">
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGl3ZW54dWUtMTJAMTYzLmNvbQ==&f=gentierankavatar" target="_blank" title="姑苏无才子0">
+				<img src="http://oimagea8.ydstatic.com/image?w=50&h=50&url=http://126.fm/2elUh5" width="50" height="50" alt="姑苏无才子0" /></a>
+			</span>
+            <span class="tieAuthRank-name">
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGl3ZW54dWUtMTJAMTYzLmNvbQ==&f=gentierankname" target="_blank" title="姑苏无才子0">姑苏无才子0</a>
                	            </span>
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
 				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGhkMTk3MkAxMjYuY29t&f=gentierankavatar" target="_blank" title="此刻无语l">
-				<img src="http://oimagea8.ydstatic.com/image?w=50&h=50&url=http://126.fm/4Rc7u1" width="50" height="50" alt="此刻无语l" /></a>
+				<img src="http://oimagea1.ydstatic.com/image?w=50&h=50&url=http://126.fm/4Rc7u1" width="50" height="50" alt="此刻无语l" /></a>
 			</span>
             <span class="tieAuthRank-name">
                	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bGhkMTk3MkAxMjYuY29t&f=gentierankname" target="_blank" title="此刻无语l">此刻无语l</a>
                	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
-						</ul><ul class="tieAuthRank-ul tieAuthRank-2">
+						</ul><ul class="tieAuthRank-ul tieAuthRank-3">
 							<li class="first">
 							<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eXVrdWl3dTE5NzNAMTI2LmNvbQ==&f=gentierankavatar" target="_blank" title="京城百晓生">
-				<img src="http://oimagea8.ydstatic.com/image?w=50&h=50&url=http://126.fm/2apji" width="50" height="50" alt="京城百晓生" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eWVqaWVoZW5nQDE2My5jb20=&f=gentierankavatar" target="_blank" title="风毒翩翩">
+				<img src="http://oimagea8.ydstatic.com/image?w=50&h=50&url=http://126.fm/1EIZf6" width="50" height="50" alt="风毒翩翩" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eXVrdWl3dTE5NzNAMTI2LmNvbQ==&f=gentierankname" target="_blank" title="京城百晓生">京城百晓生</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eWVqaWVoZW5nQDE2My5jb20=&f=gentierankname" target="_blank" title="风毒翩翩">风毒翩翩</a>
+               	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ZmFueGluZ3lhb2hhaUAxNjMuY29t&f=gentierankavatar" target="_blank" title="繁星耀海">
-				<img src="http://oimagea4.ydstatic.com/image?w=50&h=50&url=http://126.fm/3X4yMN" width="50" height="50" alt="繁星耀海" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=cm9tYW45OTg4MjAwMUAxNjMuY29t&f=gentierankavatar" target="_blank" title="迎风背手">
+				<img src="http://oimagea4.ydstatic.com/image?w=50&h=50&url=http://126.fm/9EjFO" width="50" height="50" alt="迎风背手" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ZmFueGluZ3lhb2hhaUAxNjMuY29t&f=gentierankname" target="_blank" title="繁星耀海">繁星耀海</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=cm9tYW45OTg4MjAwMUAxNjMuY29t&f=gentierankname" target="_blank" title="迎风背手">迎风背手</a>
                	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
@@ -640,72 +688,21 @@
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eXVhbjg2MDhAMTI2LmNvbQ==&f=gentierankavatar" target="_blank" title="此ID因违反法律已被关闭">
-				<img src="http://oimagea6.ydstatic.com/image?w=50&h=50&url=null" width="50" height="50" alt="此ID因违反法律已被关闭" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=cmh0cXkyMDEyQDE2My5jb20=&f=gentierankavatar" target="_blank" title="盛京浮云">
+				<img src="http://oimagea7.ydstatic.com/image?w=50&h=50&url=http://126.fm/4DOEIS" width="50" height="50" alt="盛京浮云" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eXVhbjg2MDhAMTI2LmNvbQ==&f=gentierankname" target="_blank" title="此ID因违反法律已被关闭">此ID因违反法律已被关闭</a>
-               	            </span>
-		</li>
-										<li>
-					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=enlsZDUyMGxiQDE2My5jb20=&f=gentierankavatar" target="_blank" title="成都一粟">
-				<img src="http://oimagea5.ydstatic.com/image?w=50&h=50&url=http://126.fm/21yx0B" width="50" height="50" alt="成都一粟" /></a>
-			</span>
-            <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=enlsZDUyMGxiQDE2My5jb20=&f=gentierankname" target="_blank" title="成都一粟">成都一粟</a>
-               	               		<span class="icon-daren" title="跟贴达人"></span>
-               	            </span>
-		</li>
-						</ul><ul class="tieAuthRank-ul tieAuthRank-3">
-							<li class="first">
-							<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eTYxMDMxN0AxNjMuY29t&f=gentierankavatar" target="_blank" title="牛转乾坤yes">
-				<img src="http://oimagea6.ydstatic.com/image?w=50&h=50&url=http://126.fm/1KeBp9" width="50" height="50" alt="牛转乾坤yes" /></a>
-			</span>
-            <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=eTYxMDMxN0AxNjMuY29t&f=gentierankname" target="_blank" title="牛转乾坤yes">牛转乾坤yes</a>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=cmh0cXkyMDEyQDE2My5jb20=&f=gentierankname" target="_blank" title="盛京浮云">盛京浮云</a>
                	               		<span class="icon-daren" title="跟贴达人"></span>
                	            </span>
 		</li>
 										<li>
 					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=MTIzNDVmeHJAMTYzLmNvbQ==&f=gentierankavatar" target="_blank" title="浪漫无情雨">
-				<img src="http://oimagea1.ydstatic.com/image?w=50&h=50&url=http://126.fm/1T6Fir" width="50" height="50" alt="浪漫无情雨" /></a>
+				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=MDAwMHN1bmhlQDE2My5jb20=&f=gentierankavatar" target="_blank" title="忘尘之雨">
+				<img src="http://oimagea5.ydstatic.com/image?w=50&h=50&url=http://126.fm/197pz" width="50" height="50" alt="忘尘之雨" /></a>
 			</span>
             <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=MTIzNDVmeHJAMTYzLmNvbQ==&f=gentierankname" target="_blank" title="浪漫无情雨">浪漫无情雨</a>
-               	               		<span class="icon-daren" title="跟贴达人"></span>
-               	            </span>
-		</li>
-										<li>
-					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ODc0MTFzZDAxQDE2My5jb20=&f=gentierankavatar" target="_blank" title="无花A">
-				<img src="http://oimagea1.ydstatic.com/image?w=50&h=50&url=http://126.fm/4Gd6zs" width="50" height="50" alt="无花A" /></a>
-			</span>
-            <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=ODc0MTFzZDAxQDE2My5jb20=&f=gentierankname" target="_blank" title="无花A">无花A</a>
-               	               		<span class="icon-daren" title="跟贴达人"></span>
-               	            </span>
-		</li>
-										<li>
-					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=enlsem5qQDE2My5jb20=&f=gentierankavatar" target="_blank" title="东风落云I">
-				<img src="http://oimagea8.ydstatic.com/image?w=50&h=50&url=http://126.fm/2XGT1z" width="50" height="50" alt="东风落云I" /></a>
-			</span>
-            <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=enlsem5qQDE2My5jb20=&f=gentierankname" target="_blank" title="东风落云I">东风落云I</a>
-               	               		<span class="icon-daren" title="跟贴达人"></span>
-               	            </span>
-		</li>
-										<li>
-					<span class="tieAuthRank-face">
-				<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bjAzNTExMzgzNDY2NTY5NUAxNjMuY29t&f=gentierankavatar" target="_blank" title="柳林青">
-				<img src="http://oimagea4.ydstatic.com/image?w=50&h=50&url=http://126.fm/3fhXDJ" width="50" height="50" alt="柳林青" /></a>
-			</span>
-            <span class="tieAuthRank-name">
-               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=bjAzNTExMzgzNDY2NTY5NUAxNjMuY29t&f=gentierankname" target="_blank" title="柳林青">柳林青</a>
-               	               		<span class="icon-daren" title="跟贴达人"></span>
+               	<a href="http://tie.163.com/reply/myaction.jsp?action=reply&username=MDAwMHN1bmhlQDE2My5jb20=&f=gentierankname" target="_blank" title="忘尘之雨">忘尘之雨</a>
                	            </span>
 		</li>
 		</ul>

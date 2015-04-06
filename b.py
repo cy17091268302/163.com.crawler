@@ -12,7 +12,7 @@ sitename_parsed=urlparse(sitename)
 
 response=urllib2.urlopen(sitename)
 temp=response.read()
-#temp=temp.decode('gbk','ignore').encode('utf-8')
+temp=temp.decode('utf-8','ignore').encode('utf-8')
 
 f=open(sitename_parsed.netloc+'.txt', 'w')
 f.write(temp)
